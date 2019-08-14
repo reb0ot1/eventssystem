@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebDevCore.Data\WebDevCore.Data.csproj" />
+    <ProjectReference Include="..\WebDevCore.Models\WebDevCore.Models.csproj" />
+  </ItemGroup>
+
+</Project>
